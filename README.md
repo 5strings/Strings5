@@ -1,0 +1,2 @@
+# Strings5
+strlcpy()
